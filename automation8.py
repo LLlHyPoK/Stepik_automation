@@ -22,3 +22,6 @@ input.send_keys(y)
 
 submit = browser.find_element_by_xpath('/html/body/form/div/div/button').click()
 
+browser.quit()
+
+
